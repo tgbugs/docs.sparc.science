@@ -27,4 +27,4 @@ deploy:
 after_success:
   - pip install --user awscli
   - export PATH=$PATH:$HOME/.local/bin # put aws in the path
-  - aws cloudfront create-invalidation --distribution-id ${CF_DISTRO_ID} --paths /*
+  - aws cloudfront create-invalidation --distribution-id $CF_DISTRO_ID --paths /*
