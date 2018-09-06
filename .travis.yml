@@ -5,15 +5,17 @@ language: ruby
 rvm:
   - 2.4.1
 
+
 branches:
   only:
   - master
 
+cache: 
+  - bundler # caching bundler gem packages will speed up build
+
 jobs:
   include:
     - stage: "Build"
-      cache: 
-        - bundler # caching bundler gem packages will speed up build
       script:
         - bundle exec jekyll build
     - stage: "Deploy"
