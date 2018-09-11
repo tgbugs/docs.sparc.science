@@ -14,7 +14,7 @@ This documentation provides information relevant to SPARC investigators and anyo
 
 ## Contributing to the documentation
 
-This documentation is created by the SPARC community and provides information related to the various aspects of the SPARC program. The sourcecode for this documentation site is available on Github (https://github.com/Blackfynn/docs.sparc.science) and anyone can generate a pull request to make changes to this documentation site. 
+This documentation is created by the SPARC community and provides information related to the various aspects of the SPARC program. The sourcecode for this documentation site is available on Github [https://github.com/Blackfynn/docs.sparc.science](https://github.com/Blackfynn/docs.sparc.science) and anyone can generate a pull request to make changes to this documentation site. 
 
 
 
