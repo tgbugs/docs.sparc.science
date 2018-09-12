@@ -1,0 +1,15 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: SPARC Documentation
+  version: 
+  folders:
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Introduction
+      url: /sparc.html
+      output: web, pdf
