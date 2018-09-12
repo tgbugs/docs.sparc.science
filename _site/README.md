@@ -1,3 +1,3 @@
 # Sparc Docs
 
-This site is hosted by [GitHub pages](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+[![Build Status](https://travis-ci.org/Blackfynn/docs.sparc.science.svg?branch=master)](https://travis-ci.org/Blackfynn/docs.sparc.science)
