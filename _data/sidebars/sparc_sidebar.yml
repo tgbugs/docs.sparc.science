@@ -11,5 +11,5 @@ entries:
     folderitems:
 
     - title: Introduction
-      url: /sparc.html
+      url: /introduction.html
       output: web, pdf
