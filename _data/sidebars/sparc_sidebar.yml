@@ -10,6 +10,16 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Introduction
+    - title: Information
       url: /introduction.html
+      output: web, pdf
+    - title: Contributing to the documentation
+      url: /doc_contribute.html
+      output: web, pdf
+  - title: Submitting Data
+    output: web, pdf
+    folderitems:
+    
+    - title: Submitting data to the SPARC resource
+      url: /submit_data.html
       output: web, pdf
