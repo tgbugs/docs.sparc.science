@@ -6,7 +6,7 @@ rvm:
   - 2.4.1
 
 script:
-  - bundle exec jekyll build
+  - set -e; bundle exec jekyll build
 
 branches:
   only:
@@ -25,6 +25,6 @@ deploy:
     local_dir: _site 
 
 after_deploy:
-  - pip install --user awscli
-  - export PATH=$PATH:$HOME/.local/bin # put aws in the path
-  - aws cloudfront create-invalidation --distribution-id $CF_DISTRO_ID --paths /*
+  - set -e; pip install --user awscli
+  - set -e; export PATH=$PATH:$HOME/.local/bin # put aws in the path
+  - set -e; aws cloudfront create-invalidation --distribution-id $CF_DISTRO_ID --paths /*
