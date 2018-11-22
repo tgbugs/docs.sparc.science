@@ -16,10 +16,12 @@ entries:
     - title: Contributing to the documentation
       url: /doc_contribute.html
       output: web, pdf
-  - title: Submitting Data
+  - title: Data submission
     output: web, pdf
     folderitems:
-    
-    - title: Submitting data to the SPARC resource
+    - title: DAT-Core user accounts
+      url: /user_accounts.html
+      output: web, pdf  
+    - title: Submitting data
       url: /submit_data.html
       output: web, pdf
