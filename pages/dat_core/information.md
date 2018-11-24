@@ -19,6 +19,12 @@ There are a number of ways to get in contact with the DAT-Core:
 
 3. For other general questions about Blackfynn, use the contact form on the [Blackfynn website](https://www.blackfynn.com).
 
+## Support documentation for the DAT-Core
+The SPARC DAT-Core is implemented by Blackfynn and SPARC investigators can refer to the documentation that comes with the Blackfynn platform as a reference for the SPARC DAT-Core. There are two documentation sites for the Blackfynn platform:
+
+1. **General documentation:** General documentation about the DAT-Core platform and ways to leverage the platform for scientific data management can be found here: [Blackfynn Documentation](http://help.blackfynn.com).
+2. **Developer center:** Documentation for developers can be found here: [Developer Documentation](https://developer.blackfynn.io). The developer center can be used to download the Blackfynn client tools, see the open API, and can be referenced for tutorials for MATLAB, Python, and CLI.
+
 ## Using Blackfynn outside of SPARC
 SPARC investigators are allowed to use the Blackfynn platform to organize their own scientific data outside of the SPARC effort within their individual accounts. The individual accounts are limited to match the Blackfynn Academic subscription model ([Blackfynn Academia](https://www.blackfynn/academia)). Contact Blackfynn if you have any questions about Blackfynn Academia.
 
