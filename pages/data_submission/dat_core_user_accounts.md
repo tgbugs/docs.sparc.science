@@ -3,7 +3,7 @@ title: "User Accounts"
 keywords: documentation, github
 sidebar: sparc_sidebar
 permalink: user_accounts.html
-summary: (DRAFT) This pages outlines the workflow for submitting data to the SPARC DAT-Core. 
+summary: This pages outlines the workflow for submitting data to the SPARC DAT-Core. 
 folder: general
 ---
 
@@ -17,10 +17,14 @@ All SPARC investigators have access to the DAT-Core platform ([Blackfynn](https:
 
 The remainder of the SPARC documenentation will reference the **SPARC Consortium organization** only. 
 
-## Getting access to the SPARC Consortium account
+### The SPARC Consortium account on the DAT-Core
 
 Since the SPARC Consortium account will host all SPARC data (including embargoed data), access to to this organization will be restricted until users sign a non-disclosure agreement (NDA). User accounts to this organization will be managed by the DAT-CORE. By signing the NDA, SPARC awardees agree not to unilaterally publish or disseminate data made available from other labs and not to use data for commercial purposes during the embargo period. Once the users have signed the NDA, they will be granted access to the SPARC Consortium account. 
 
-## SPARC Teams
+### SPARC Teams on the DAT-Core
 
 Once users are accepted into the SPARC Consortium account, each investigator group can create a team. Initially, teams will reflect the individual laboratories, but it is possible to create any number of teams comprised of SPARC investigators (i.e. users with access to the SPARC Consortium Account). Teams will be used to set data access rights and roles for submitted datasets.
+
+## SPARC Slack Organization
+
+All SPARC investigators can join the SPARC [Slack Account](https://www.slack.com). SPARC uses Slack to foster collaboration and communication between investigators within the SPARC program. If you are interested to join the Slack account, send a message to Leonardo Guercio from the DAT-Core (support@blackfynn.com).

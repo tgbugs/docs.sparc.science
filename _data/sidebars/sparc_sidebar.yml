@@ -9,7 +9,6 @@ entries:
   - title: Overview
     output: web, pdf
     folderitems:
-
     - title: Information
       url: /introduction.html
       output: web, pdf
@@ -19,9 +18,21 @@ entries:
   - title: Data submission
     output: web, pdf
     folderitems:
-    - title: DAT-Core user accounts
+    - title: User accounts
       url: /user_accounts.html
       output: web, pdf  
     - title: Submitting data
       url: /submit_data.html
       output: web, pdf
+  - title: DAT-Core Information
+    output: web, pdf
+    folderitems:
+    - title: DAT-Core information
+      url: /dat_information.html
+      output: web, pdf
+    - title: DAT-Core roadmap
+      url: /dat_roadmap.html
+      output: web, pdf
+
+
+
