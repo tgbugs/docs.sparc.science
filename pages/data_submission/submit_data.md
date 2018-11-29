@@ -1,5 +1,5 @@
 ---
-title: "SPARC Data submission workflow"
+title: "SPARC Data curation steps"
 keywords: documentation, github
 sidebar: sparc_sidebar
 permalink: submit_data.html
@@ -14,8 +14,10 @@ folder: general
 
 ### Creation of a draft dataset
 **Timeline:** Creation of a draft dataset is up to the investigator 
-Who has access to the data: The data is private and is accessible only to those that you specifically invite to access the data (this applies to the DAT-Core as well).
-Who owns the data: The investigator that submitted the data or the person who is assigned as the owner of the dataset.
+
+**Who has access to the data:** The data is private and is accessible only to those that you specifically invite to access the data (this applies to the DAT-Core as well).
+
+**Who owns the data:** The investigator that submitted the data or the person who is assigned as the owner of the dataset.
 
 **Process:** At any time, users can create a draft dataset within the SPARC Consortium account in preparation for submitting the data to the consortium. 
 
@@ -24,36 +26,42 @@ At this time, the data is private to the data owner. At any point in time, users
 **Required steps for the data owner:**
 - Creating and naming a dataset (see: Creating datasets )
 - Providing a description of the dataset
-- Selecting the SPARC data models that are applicable to the data that is being submitted.
-- Uploading files and annotating the data with the data standards models as seen fit. (see: Uploading data and Annotating data with records )
+- Uploading files and annotating the data as preparation for the data curation team.
+
+### Sharing draft dataset with the data curation team
+**Timeline:** Sharing the data with the data curation team is up to the investigator
+
+**Who has access to the data:** The data is private and is accessible only to those that you specifically invite to access the data. At this stage this will include the data curation team.
+
+**Who owns the data:** The investigator that submitted the data or the person who is assigned as the owner of the dataset.
+
+**Process:** The data curation team will work with the investigators to curate the dataset. This includes capturing the metadata and mapping it to the standardized models developed by the data standards committee.
+
+**Required steps for the data owner:**
+- Share the dataset with the SPARC curation team on the DAT-Core platform
+- Work with the curation team to curate the data
 
 
 ### Initial submission and publishing as embargoed dataset
 **Timeline:** Finalizing the draft dataset is required 1 month after the completion of a data milestone
-Who has access to the data: The data is now shared with the SPARC Consortium and all SPARC investigators can see the data.
-Who owns the data: The investigator that submitted the data or the person who is assigned as the owner of the dataset.
+
+**Who has access to the data:** The data is now shared with the SPARC Consortium and all SPARC investigators can see the data.
+
+**Who owns the data:** The investigator that submitted the data or the person who is assigned as the owner of the dataset.
 
 **Process:** At a specific point in time when a data milestone is due, the NIH Leadership team will require the investigators to share the draft dataset with the SPARC Consortium. The dataset is now considered to be an embargoed dataset. 
-Making the data available to the SPARC consortium will provide “read-only” access to all members of the SPARC Consortium account. The investigator is still the data owner and is the only member who can change who can edit the data in the dataset. 
+Making the data available to the SPARC consortium will provide “read-only” access to all members of the SPARC Consortium account. The investigator is still the data owner and can restrict who has 'edit' permissions on the dataset.
 
 **Required steps for the data owner:**
-- The owner will have to change the ‘sharing’ setting to include the entire SPARC Consortium account. 
-
-### Finalize submission and integration in SPARC Resource
-**Timeline:** We expect that the metadata curation team will work with the SPARC team over a period of a month to ensure that the dataset adheres to the SPARC data standards.
-Who has access to the data: The data is shared with the SPARC Consortium and the data curation team will work with the investigators to finalize the dataset.
-Who owns the data: The investigator that submitted the data or the person who is assigned as the owner of the dataset
-
-**Process:** After data is made available to the SPARC consortium as an embargoed dataset, the metadata curation team will start validating the submitted dataset and work with the data owners to make sure the submitted dataset adheres to the required data standards. In addition, the metadata curation team will initiate integration of the data into the SPARC Integrated Dataset. 
-
-**Required steps for the data owner:**
-- Work with the curation team to ensure the dataset adheres to the data standards.
+- The owner will have to change the ‘sharing’ setting to include the entire SPARC Consortium account with read-only priviledges.
 
 
 ### Publishing submitted dataset into public domain 
 **Timeline:** One year after the initial submission of the dataset.
-Who has access to the data: The dataset is now publicly available. There will be processes that require people outside the SPARC Consortium to request access to the data from the data owner. 
-Who owns the data: The investigator that submitted the data or the person who is assigned as the owner of the dataset.
+
+**Who has access to the data:** The dataset is now publicly available. There will be processes that require people outside the SPARC Consortium to request access to the data from the data owner. 
+
+**Who owns the data:** The investigator that submitted the data or the person who is assigned as the owner of the dataset.
 
 **Process:** One year after the the creation of the embargoed dataset, the data owner will be required to make the dataset public on the Open Data Library. When datasets are shared publicly, the data will receive a DOI which can be used to reference the data in publications.
 

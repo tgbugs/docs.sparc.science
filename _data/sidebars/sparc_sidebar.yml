@@ -12,17 +12,20 @@ entries:
     - title: Information
       url: /introduction.html
       output: web, pdf
+    - title: DRC Resources and accounts
+      url: /user_accounts.html
+      output: web, pdf  
     - title: Contributing to the documentation
       url: /doc_contribute.html
       output: web, pdf
-  - title: Data submission
+  - title: Submitting Data 
     output: web, pdf
     folderitems:
-    - title: User accounts
-      url: /user_accounts.html
-      output: web, pdf  
-    - title: Submitting data
+    - title: Data curation steps
       url: /submit_data.html
+      output: web, pdf
+    - title: Uploading files
+      url: /file_upload_dat_core.html
       output: web, pdf
   - title: DAT-Core Information
     output: web, pdf

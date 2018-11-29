@@ -25,6 +25,7 @@ This document outlines the SPARC milestones for the DAT-Core as outlined in the 
 3. **Support for dataset status:** Adding support for a status flag on datasets indicating the stage of curation it is in (draft, in-review, finalized)
 4. **Support for N-dimensional imaging data:** The DAT-Core will expand functionality for 3D clinical imaging, and N-Dimensional microscopy imaging. 
 5. **Improved tracking of SPARC data-use:** The DAT-Core will improve funcitonality to track how much data is contributed by SPARC investigators.
+6. **Support for two additional file formats:** The DAT-Core will add support for 64-bit Spike2 files and .ac2 files.
 
 ### Q3: April-June 2019
 
@@ -40,6 +41,7 @@ This document outlines the SPARC milestones for the DAT-Core as outlined in the 
 1. **Support for hierarchical ontologies:** The DAT-Core will expand functionality to link to ontologies and support for hierarchical ontologies. 
 2. **Support for merging metadata from multiple datasets:** The DAT-Core will provide functionality to merge metadata between datasets.
 3. **Expanded support for the Open Data Library:** DAT-Core will implement functionality to allow investigators outside the SPARC initiative, without a subscription to the DAT-Core platform, to access/download data from the Open Data Library in a sustainable way (cost for downloading data will be passed ot the downloader).
+4. **Support for two additional file formats:** Specific file formats are TBD.
 
 
 ### SPARC Year 3

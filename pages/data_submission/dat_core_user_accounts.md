@@ -1,25 +1,27 @@
 ---
-title: "User Accounts"
+title: "User Accounts & Organizations"
 keywords: documentation, github
 sidebar: sparc_sidebar
 permalink: user_accounts.html
-summary: This pages outlines the workflow for submitting data to the SPARC DAT-Core. 
+summary: This page describes the various accounts and resources that are available to the SPARC investigators.
 folder: general
 ---
 
-## User accounts on the DAT-Core
+## Organizations on the DAT-Core
 
-All SPARC investigators have access to the DAT-Core platform ([Blackfynn](https://app.blackfynn.io)). SPARC Investigators will have access to two accounts on the Blackfynn platform. 
+All SPARC investigators have access to the DAT-Core platform ([Blackfynn](https://app.blackfynn.io)). SPARC Investigators will have access to two organizations on the Blackfynn platform. 
 
-1. **A private account for their lab:** This account is available to the individual SPARC investigators and is independent of the SPARC requirements. Investigators can use this account for their data management needs within, and beyond the SPARC program. This account is private and not managed by the SPARC Consortium and has the same restrictions as a standard [Blackfynn academic subscription](https://www.blackfynn.com/academia)
+1. **A private organization for their lab:** 
+These accounts will should no longer be used for SPARC related efforts and will be transitioned to our standard free academic subscription model by March 2019 ([Blackfynn academic subscription](https://www.blackfynn.com/academia)). The private lab accounts were created for individual labs during the first year of the DAT-Core effort. However, starting in December 2018, all SPARC related data should be hosted in the **SPARC Confidential** organization. 
 
-2. **The SPARC Consortium account:** This account will be used for all data submissions to the SPARC consortium. This account will enforce strict data models and data submission processes. 
+2. **The SPARC Confidential organization:** 
+This organization will be used for all data submissions to the SPARC consortium. Investigators can create private datasets in this organization, and selectively share their dataset within this organization with other individuals or teams.  
 
-The remainder of the SPARC documenentation will reference the **SPARC Consortium organization** only. 
+For the remainder of the SPARC documenentation, any notion of organization on the DAT-Core will reference the **SPARC Consortium** organization only. 
 
-### The SPARC Consortium account on the DAT-Core
+### The SPARC Confidential organization on the DAT-Core
 
-Since the SPARC Consortium account will host all SPARC data (including embargoed data), access to to this organization will be restricted until users sign a non-disclosure agreement (NDA). User accounts to this organization will be managed by the DAT-CORE. By signing the NDA, SPARC awardees agree not to unilaterally publish or disseminate data made available from other labs and not to use data for commercial purposes during the embargo period. Once the users have signed the NDA, they will be granted access to the SPARC Consortium account. 
+Since the SPARC Confidential organization will host all SPARC data (including embargoed data), access to to this organization will be restricted until users sign a non-disclosure agreement (NDA). User accounts to this organization will be managed by the DAT-CORE. By signing the NDA, SPARC awardees agree not to unilaterally publish or disseminate data made available from other labs and not to use data for commercial purposes during the embargo period. Once the users have signed the NDA, they will be granted access to the SPARC Consortium account. 
 
 ### SPARC Teams on the DAT-Core
 
@@ -28,3 +30,7 @@ Once users are accepted into the SPARC Consortium account, each investigator gro
 ## SPARC Slack Organization
 
 All SPARC investigators can join the SPARC [Slack Account](https://www.slack.com). SPARC uses Slack to foster collaboration and communication between investigators within the SPARC program. If you are interested to join the Slack account, send a message to Leonardo Guercio from the DAT-Core (support@blackfynn.com).
+
+## SPARC TalentLMS
+
+SPARC is using [TalentLMS](https://learnwithsparc.talentlms.com/index) for documentation, tutorials and resources related to SPARC meetings. Please contact Sue Tappan from MBF for more information.
