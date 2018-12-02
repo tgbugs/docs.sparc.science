@@ -101,7 +101,6 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-- home_sidebar
 - sparc_sidebar
 
 description: "Intended for documentation use for the NIC SPARC project."

@@ -3,7 +3,7 @@ title: "User Accounts"
 keywords: documentation, github
 sidebar: sparc_sidebar
 permalink: user_accounts.html
-summary: (DRAFT) This pages outlines the workflow for submitting data to the SPARC DAT-Core. 
+summary: This pages outlines the workflow for submitting data to the SPARC DAT-Core. 
 folder: general
 ---
 

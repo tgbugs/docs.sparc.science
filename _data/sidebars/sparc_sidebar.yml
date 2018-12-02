@@ -9,31 +9,31 @@ entries:
   - title: Overview
     output: web, pdf
     folderitems:
-    - title: Information
-      url: /introduction.html
-      output: web, pdf
-    - title: DRC Resources and accounts
+    - title: DRC Resources and Accounts
       url: /user_accounts.html
       output: web, pdf  
-    - title: Contributing to the documentation
+    - title: SPARC Confidentiality Agreement
+      url: /sparc_cda.html
+      output: web, pdf
+    - title: Contributing to the Documentation
       url: /doc_contribute.html
       output: web, pdf
   - title: Submitting Data 
     output: web, pdf
     folderitems:
-    - title: Data curation steps
+    - title: Data Curation Steps
       url: /submit_data.html
       output: web, pdf
-    - title: Uploading files
+    - title: Uploading Files
       url: /file_upload_dat_core.html
       output: web, pdf
   - title: DAT-Core Information
     output: web, pdf
     folderitems:
-    - title: DAT-Core information
+    - title: DAT-Core Information
       url: /dat_information.html
       output: web, pdf
-    - title: DAT-Core roadmap
+    - title: DAT-Core Roadmap
       url: /dat_roadmap.html
       output: web, pdf
 
