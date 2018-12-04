@@ -13,9 +13,9 @@ This document outlines the SPARC milestones for the DAT-Core as outlined in the 
 ### Q1: October-December 2018
 
 1. **Model, and dataset templates:** DAT-Core will implement functionality to create meta-data templates and use those templates to define a metadata structure for a dataset. 
-2. **Support for linking model properties to other records:** The DAT-Core will provide the ability to define metadata models that contain properties that point to other records. This expands exisiting functionality to create relationships between records.
+2. **Support for linking model properties to other records:** The DAT-Core will provide the ability to define metadata models that contain properties that point to other records. This expands existing functionality to create relationships between records.
 3. **Support for enumerated values, and multiple values in properties:** The DAT-Core will provide functionality to define properties in metadata models where users can only select from predefined values ('a dropdown menu'). This will expand functionality to standardize datasets.
-4. **Support for uploading large files:** Based on user feedback, there is a need to upload very large files that take longer than 1 hour to upload per file. The DAT-Core will provide functionality to support this in a secure and performent way.
+4. **Support for uploading large files:** Based on user feedback, there is a need to upload very large files that take longer than 1 hour to upload per file. The DAT-Core will provide functionality to support this in a secure and performant way.
 5. **Documentation for workflow, and platform:** The DAT-Core will provide extensive documentation around the data submission workflow and documentation of its platform.
 
 ### Q2: January-March 2019
@@ -24,7 +24,7 @@ This document outlines the SPARC milestones for the DAT-Core as outlined in the 
 2. **Expanded functionality for search over metadata:** The DAT-Core will expand functionality in their platform to search over metadata within datasets. 
 3. **Support for dataset status:** Adding support for a status flag on datasets indicating the stage of curation it is in (draft, in-review, finalized)
 4. **Support for N-dimensional imaging data:** The DAT-Core will expand functionality for 3D clinical imaging, and N-Dimensional microscopy imaging. 
-5. **Improved tracking of SPARC data-use:** The DAT-Core will improve funcitonality to track how much data is contributed by SPARC investigators.
+5. **Improved tracking of SPARC data-use:** The DAT-Core will improve functionality to track how much data is contributed by SPARC investigators.
 6. **Support for two additional file formats:** The DAT-Core will add support for 64-bit Spike2 files and .ac2 files.
 
 ### Q3: April-June 2019
@@ -40,7 +40,7 @@ This document outlines the SPARC milestones for the DAT-Core as outlined in the 
 
 1. **Support for hierarchical ontologies:** The DAT-Core will expand functionality to link to ontologies and support for hierarchical ontologies. 
 2. **Support for merging metadata from multiple datasets:** The DAT-Core will provide functionality to merge metadata between datasets.
-3. **Expanded support for the Open Data Library:** DAT-Core will implement functionality to allow investigators outside the SPARC initiative, without a subscription to the DAT-Core platform, to access/download data from the Open Data Library in a sustainable way (cost for downloading data will be passed ot the downloader).
+3. **Expanded support for the Open Data Library:** DAT-Core will implement functionality to allow investigators outside the SPARC initiative, without a subscription to the DAT-Core platform, to access/download data from the Open Data Library in a sustainable way (cost for downloading data will be passed to the downloader).
 4. **Support for two additional file formats:** Specific file formats are TBD.
 
 

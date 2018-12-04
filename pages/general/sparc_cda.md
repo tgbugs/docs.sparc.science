@@ -21,3 +21,5 @@ There are three steps involved in gaining access to embargoed data on the DAT-Co
 1. The user should already be a member of the **SPARC Consortium Organization** on the DAT-Core: platform. 
 2. The user [downloads the CDA](https://s3.amazonaws.com/data.blackfynn.io/public-downloads/sparc/SPARC+DAT-CORE+Confidentiality+Disclosure+Agreement.pdf) and sends a signed copy to Leonardo Guercio from the DAT-Core. The DAT-Core will maintain a record of all signed SPARC CDA's.
 3. After verification of the request, the user is added to the **SPARC Embargoed Data Sharing Group**.
+
+A list of SPARC investigators who have signed the CDA can be found [here](https://docs.google.com/spreadsheets/d/1VZk4F0W6UpZWTFFMze722ualNI6S_Z0_mj8D8wyaf04/edit#gid=0).
