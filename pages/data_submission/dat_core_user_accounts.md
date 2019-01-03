@@ -26,4 +26,4 @@ All SPARC investigators can join the [SPARC Slack](https://nih-sparc.slack.com).
 SPARC is using [TalentLMS](https://datathon-learnwithsparc.talentlms.com/) for documentation, tutorials and resources related to SPARC meetings. Please contact Susan Tappan from MBF Bioscience (susan@mbfbioscience.com) for more information.
 
 ## Airtable
-Airtable will be used to provide contact information for SPARC investigators and can be found [here](https://airtable.com/tblFGEvUoTbbG6tJy/viwWBpydzfYQsvNFz). Please contact Charles Horn at the University of Pittsburgh (chorn@pitt.edu) for more information.
+Airtable will be used to provide contact information for SPARC investigators and to define Teams on the Blackfynn platform (see above). The SPARC Airtable can be accessed [here](https://airtable.com/tblFGEvUoTbbG6tJy/viwWBpydzfYQsvNFz). Please contact Charles Horn at the University of Pittsburgh (chorn@pitt.edu) for more information.
