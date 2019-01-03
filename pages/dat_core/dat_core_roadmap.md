@@ -21,7 +21,7 @@ This document outlines the SPARC milestones for the DAT-Core as outlined in the 
 
 1. **(Postponed for Q1.5) Dataset templates:** DAT-Core will implement functionality to create meta-data templates and use those templates to define a metadata structure for a dataset. 
 2. **Expanding user permissions on datasets:** The DAT-Core will expand functionality for roles on datasets to support the SPARC data workflow.
-3. **Expanded functionality for search over metadata:** The DAT-Core will expand functionality in their platform to search over metadata within datasets. 
+3. **Expanded functionality for search over metadata:** The DAT-Core will expand functionality in their platform to search over metadata within d7atasets. 
 4. **Support for dataset status:** Adding support for a status flag on datasets indicating the stage of curation it is in (draft, in-review, finalized)
 5. **Support for N-dimensional imaging data:** The DAT-Core will expand functionality for 3D clinical imaging, and N-Dimensional microscopy imaging. 
 6. **Improved tracking of SPARC data-use:** The DAT-Core will improve functionality to track how much data is contributed by SPARC investigators.
