@@ -11,7 +11,8 @@ folder: general
 
 {% include image.html file="sparc_workflow.png" alt="workflow" %}
 
-Inveistgators will have 1 year from the time a milestone is completed to publish the resulting dataset (step 4). A dataset is published when it is available for viewing and download by the public and has been assigned a digital object identifier (DOI). During that year, the dataset will move through several stages, characterized by access rights and curatorial actions. Investigators will have 30 days from the completion of the milestone to formally submit their data to the SPARC Data Repository (DAT-CORE).  Submission of data is defined as sharing data with the Data Curation Team (step 2).
+
+Investigators will have 1 year from the time a milestone is completed to publish the resulting dataset (step 4). A dataset is published when it is available for viewing and download by the public and has been assigned a digital object identifier (DOI). During that year, the dataset will move through several stages, characterized by access rights and curatorial actions. Investigators will have 30 days from the completion of the milestone to formally submit their data to the SPARC Data Repository (DAT-CORE).  Submission of data is defined as sharing data with the Data Curation Team (step 2).
 
 ### 1. Creating a draft dataset
 **Timeline:** At any time, users can create a draft dataset within the SPARC Consortium organization in preparation for submitting the dataset.
