@@ -20,20 +20,24 @@ Inveistgators will have 1 year from the time a milestone is completed to publish
 
 **Who owns the data:** The investigator that submitted the data or the person who is assigned as the owner of the dataset.
 
-**Process:**  During this step, investigators upload a data set that represents the completion of a milestone according to the standards esablished by SPARC. A dataset is defined as follows: The set of data files, supporting documents and metadata produced as the result of completing a milestone.  At time of submission, the  dataset may be considered complete, that is no new data will will be collected, or it may represent a batch or slice of data that is part of a larger data set being collected over several milestones. You may choose to use some of the SPARC data repository features for organizing your data; however, the data and metadata standards established by SPARC, as outlined below, must be followed before the dataset is submitted for curation.
+**Process:**  During this step, investigators upload a data set that represents the completion of a milestone according to the standards esablished by SPARC. 
+
+A dataset is defined as follows: The set of data files, supporting documents and metadata produced as the result of completing a milestone.  At time of submission, the  dataset may be considered complete, that is no new data will will be collected, or it may represent a batch or slice of data that is part of a larger data set being collected over several milestones. 
+
+You may choose to use some of the SPARC data repository features for organizing your data; however, the data and metadata standards established by SPARC, as outlined below, must be followed before the dataset is submitted for curation.
 
 **Steps for creating a draft dataset:**
-- Creating and naming a dataset in the SPARC data repository
-- Providing a short description for the dataset
-- Uploading files and organizing the dataset according to the requirements of the SPARC Data Standards Committee and Data Curation Team.
+- Create and name a dataset in the SPARC data repository
+- Provide a short description for the dataset
+- Upload files and organize the dataset according to the requirements of the SPARC Data Standards Committee and Data Curation Team.
 - Share the data with the curation team and NIH
 
 **SPARC dataset requirements** Each dataset will comprise the following:
 - A protocol that has been [submitted to Protocols.io](https://docs.google.com/presentation/d/1WhoLvOVRIbCzu3x30Dd0O1cC09ZGT4g0IFOf4Eq7yfI/edit#slide=id.p) as part of the SPARC group
-- Data files organized in folders according to [SPARC guidelines](https://docs.google.com/presentation/d/1EQPn1FmANpPsFt3CguU-JOQVMMlJsNXluQAK_gb2qVg/edit#slide=id.p1).  The SPARC Dataset Structure may be [downloaded as a zip file](https://drive.google.com/open?id=1mtZ5sL1lYcA2zHVsrYOKVeH2X-VlJT6P) or you may create them on your own. For help with working with the SPARC Dataset Structure, which is based on the [BIDS specification](http://bids.neuroimaging.io/),contact **sparc@neuinfo.org**.
+- Data files organized in folders according to [SPARC guidelines](https://docs.google.com/presentation/d/1EQPn1FmANpPsFt3CguU-JOQVMMlJsNXluQAK_gb2qVg/edit#slide=id.p1).  The SPARC Dataset Structure may be [downloaded as a zip file](https://drive.google.com/open?id=1mtZ5sL1lYcA2zHVsrYOKVeH2X-VlJT6P) or you may create them on your own. For help with working with the SPARC Dataset Structure, which is based on the [BIDS specification](http://bids.neuroimaging.io/), contact **sparc@neuinfo.org**.
 - Metadata files and documentation organized according to the SPARC Dataset Structure.  Templates are provided in the zip file (docs file) and include the following:
   - [Submission metadata](https://drive.google.com/open?id=1OhXmssY9GK8ebOmrvib1B9xbeqoVEOBA)
-  - [Dataset description for publication](https://docs.google.com/spreadsheets/d/1IzTvXTyHZfEGybGPtAGi0jWlRzVwUXn-ng67jgmcY78/edit#gid=54192022)
+  - [Dataset description for publication](https://drive.google.com/file/d/1-VqBo63oKlxVdt8nNnbzVK0NxAHwc8-L/view?usp=sharing)
   - A representative figure that will be made published along with the descriptive metadata
   - Experimental metadata specified by the SPARC Data Standards Committee based on the Minimal Information for a Neuroscience Dataset (MINDS) specification.  MINDs metadata fields have been incorporated into the [subjects](https://drive.google.com/open?id=1IDo5INrqtIu1sTJW2mICzuGEAKqv5eGg) and [samples](https://drive.google.com/open?id=1ROCsuBjMWBDmCTpTGZsUQDDgYtm-nqYG) templates available in the zip file.  An annotated list of these fields can be found [here](https://docs.google.com/spreadsheets/d/1e61r3F2weausmBhqFK8RlYLviC3rya44so5m15mPRTw/edit#gid=108617967).
 
