@@ -29,7 +29,9 @@ You may choose to use some of the SPARC data repository features for organizing 
 **Steps for creating a draft dataset:**
 - Create and name a dataset in the SPARC data repository
 - Provide a short description for the dataset
-- Upload files and organize the dataset according to the requirements of the SPARC Data Standards Committee and Data Curation Team.
+- Upload files and organize the dataset according to the requirements of the SPARC Data Standards Committee and Data Curation Team. Users can either:
+  - create the SPARC required folder hierarchy on the DAT-Core platform, or
+  - **create and upload a zip file with the correct folder hierarchy and files**. This method is available temporarily until the DAT-Core natively supports dragging nested folders into the web-application. In this case, once the dataset is shared with the curation team, the DAT-Core unzip the uploaded file and create the folder hierarchy on the platform.
 - Share the data with the curation team and NIH
 
 **SPARC dataset requirements** Each dataset will comprise the following:
