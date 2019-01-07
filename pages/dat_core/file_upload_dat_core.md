@@ -45,7 +45,7 @@ To upload data using the Blackfynn Agent you will have to first install the agen
 
 Tutorials on how to install and configure the agent, as well as how to upload data using the agent can be found in the [Blackfynn Developer documentation](https://developer.blackfynn.io/agent/) for the CLI.
 
-### Upload files using the Python CLI (Nested Folder Upload)
+### Upload folders/files using the Python CLI (Nested Folder Upload)
 The Blackfynn Python client includes a CLI which enable users to interact with the platform from the command line. Users should [install the python client](https://developer.blackfynn.io/python/). After the client is installed, users will be able to use the ```bf``` command in the terminal to interact with the platform. Make sure to follow the python installation instructions and setup 
 
 ```bash
@@ -64,7 +64,7 @@ $ bf --help
 ``` 
 
 ### Upload files using Python
-You can use the Open Source Blackfynn Python Library to upload files to the DAT-Core platform.  In Python, you will first need to import the library adn establish a connection to the platform. Then retrieve or create a dataset. The dataset object has a method to upload files to the dataset as the following example highlights.
+You can use the Open Source Blackfynn Python Library to upload files to the DAT-Core platform.  In Python, you will first need to import the library and establish a connection to the platform. Then retrieve or create a dataset. The dataset object has a method to upload files to the dataset as the following example highlights.
 
 ```python
  # import Blackfynn
