@@ -34,6 +34,10 @@ Depending on the file format, the platform will process the data to enable the d
 
 For more information, see the [File Upload Documentation for Blackfynn](http://help.blackfynn.com/blackfynn-web-application/uploading-files-to-a-dataset) 
 
+### Uploading Large Files (>10GB)
+Uploading large files is currently supported through the web-application. 
+
+
 ### Upload files using the Blackfynn Agent
 The Blackfynn Agent is a command line interface (CLI) that is available for Windows, Linux and Mac OS. It allows users to interact with the platform programmatically using the command line. The Blackfynn Agent is currently in Beta and will over time replace the Python based CLI. 
 
