@@ -111,7 +111,6 @@ A detailed tutorial on how to upload data using MATLAB can be found in the [Blac
 ### Uploading file using DOPE-Blackfynn GUI 
 A Windows program, called DOPE-Blackfynn-GUI, has been developed by Bhavesh Patel ([bpatel@calmi2.org](mailto:bpatel@calmi2.org)) for uploading nested folder from your computer to the Blackfynn platform without having to type any code or installing any other software. Everything that is required (Python, Blackfynn API, etc.) is prepackaged in this program. It provides a convenient GUI (shown in the picture below) wrapped around the Blackfynn Python API. The program can be downloaded from the dedicated [Github repository](https://github.com/bvhpatel/dope-blackfynn-gui){:target="_blank"}. Please follow the user manual for installation and usage guidelines. A method for setting up your Blackfynn profile on your computer without having to go through the command line is also provided in the user manual. The program has been tested on Windows 7, 8, and 10. Extension to Mac and/or Linux OS will be considered if there is a demand from the investigators (please email the developer with any such request). 
 
-{% include image.html file="DOPE-Blackfynn-GUI.png" alt="GUI picture" %}
-
+{% include image.html file="dope_blackfynn_gui.png" alt="workflow" %}
 
 
