@@ -36,6 +36,12 @@ entries:
     - title: DAT-Core Roadmap
       url: /dat_roadmap.html
       output: web, pdf
-
+  - title: MAP-Core 
+    output: web, pdf
+    folderitems:
+    - title: Webinar by Peter Hunter
+      url: /Webinar_by_PeterHunter.html
+      output: web, pdf
+   
 
 
