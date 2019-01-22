@@ -35,7 +35,7 @@ Depending on the file format, the platform will process the data to enable the d
 For more information, see the [File Upload Documentation for Blackfynn](http://help.blackfynn.com/blackfynn-web-application/uploading-files-to-a-dataset) 
 
 ### Uploading Large Files (>10GB)
-Uploading large files is currently supported through the web-application. 
+Uploading large files is currently supported through the web-application, through the [Blackfyn Agent](https://developer.blackfynn.io/agent/index.html) and MATLAB (leveraging the Blackfynn Agent).
 
 
 ### Upload files using the Blackfynn Agent
@@ -68,7 +68,7 @@ $ bf --help
 ``` 
 
 ### Upload files using Python
-You can use the Open Source Blackfynn Python Library to upload files to the DAT-Core platform.  In Python, you will first need to import the library and establish a connection to the platform. Then retrieve or create a dataset. The dataset object has a method to upload files to the dataset as the following example highlights.
+You can use the Open Source Blackfynn Python Library to upload files to the DAT-Core platform.  In Python, you will first need to import the library and establish a connection to the platform. Then retrieve or create a dataset. The dataset object has a method to upload files to the dataset as the following example highlights. Note that uploading large files is currently not supported for Python, please use the Blackfynn Agent to programmatically upload large files. The Python client will rely on the Agent for uploading files in future releases.
 
 ```python
  # import Blackfynn
