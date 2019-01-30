@@ -22,8 +22,11 @@ Once users join the SPARC Consortium organization, each user will be placed onto
 ## SPARC Slack
 All SPARC investigators can join the [SPARC Slack](https://nih-sparc.slack.com). SPARC uses Slack to foster collaboration and communication between investigators within the SPARC program. If you are interested in joining the Slack account, send a message to Leonardo Guercio from the DAT-Core (support@blackfynn.com).
 
-## SPARC TalentLMS
-SPARC is using [TalentLMS](https://datathon-learnwithsparc.talentlms.com/) for documentation, tutorials and resources related to SPARC meetings. Please contact Susan Tappan from MBF Bioscience (susan@mbfbioscience.com) for more information.
+## SPARC Datathon 2018 TalentLMS
+SPARC used [TalentLMS](https://datathon-learnwithsparc.talentlms.com/) for documentation, tutorials and resources for the 2018 Datathon meeting. Following the meeting the material has been consolidated into a single "course" which can be accessed with the credentials:
+* **user name:** sparc
+* **password:** sparc2
+Please contact the mapcore-support channel on [SPARC Slack](https://nih-sparc.slack.com) for further information or assistance.
 
 ## Airtable
 Airtable will be used to provide contact information for SPARC investigators and to define Teams on the Blackfynn platform (see above). The SPARC Airtable can be accessed [here](https://airtable.com/tblFGEvUoTbbG6tJy/viwWBpydzfYQsvNFz). Please contact Charles Horn at the University of Pittsburgh (chorn@pitt.edu) for more information.
