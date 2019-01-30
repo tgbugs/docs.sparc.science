@@ -26,6 +26,7 @@ All SPARC investigators can join the [SPARC Slack](https://nih-sparc.slack.com).
 SPARC used [TalentLMS](https://datathon-learnwithsparc.talentlms.com/) for documentation, tutorials and resources for the 2018 Datathon meeting. Following the meeting the material has been consolidated into a single "course" which can be accessed with the credentials:
 * **user name:** sparc
 * **password:** sparc2
+
 Please contact the mapcore-support channel on [SPARC Slack](https://nih-sparc.slack.com) for further information or assistance.
 
 ## Airtable
