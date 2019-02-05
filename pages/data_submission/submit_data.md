@@ -30,9 +30,7 @@ The data and metadata standards established by SPARC, as outlined below, must be
 **Steps for creating a draft dataset:**
 - Create and name a dataset in the SPARC Data Repository (within the **SPARC Consortium Organization** on Blackfynn)
 - Provide a short description for the dataset
-- Upload files and organize the dataset according to the requirements of the SPARC Data Standards Committee and Data Curation Team (see below).Users can either:
-  - create the SPARC required folder hierarchy on the DAT-Core platform, or
-  - **create and upload a zip file with the correct folder hierarchy and files**. This method is available temporarily until the DAT-Core natively supports dragging nested folders into the web-application. In this case, once the dataset is shared with the curation team, the DAT-Core unzip the uploaded file and create the folder hierarchy on the platform.
+- Upload files and organize the dataset according to the requirements of the SPARC Data Standards Committee and Data Curation Team (see below). For many users the easiest method is to drag the parent folder of the BIDS folder hierarchy into the DAT-Core platform. All files will be uploaded and the folder structure will be maintained.
 - Share the data with the curation team and NIH
 
 **SPARC dataset requirements** Each dataset will comprise the following:

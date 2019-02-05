@@ -28,7 +28,7 @@ To upload files, you can drag files from your local machine directly into the fi
 
 {% include image.html file="dat_core_upload_modal.png" alt="file upload" %}
 
-Click 'Start Upload' to begin uploading the files. During the upload process, you can safely hide the popup window as files will continue to be uploaded in the background. Once files are uploaded to the platform, they will show up in the file browser. 
+Click 'Start Upload' to begin uploading the files. During the upload process, you can safely hide the popup window as files will continue to be uploaded in the background. Once files are uploaded to the platform, they will show up in the file browser. If you drag a folder into the upload window, all nested folders will also be uploaded and the folder hierarchy will be maintained on the platform.
 
 Depending on the file format, the platform will process the data to enable the data to be viewed in the browser based data viewer. Processing of the data can take a while and you will be notified when this has completed.
 
@@ -49,8 +49,8 @@ To upload data using the Blackfynn Agent you will have to first install the agen
 
 Tutorials on how to install and configure the agent, as well as how to upload data using the agent can be found in the [Blackfynn Developer documentation](https://developer.blackfynn.io/agent/) for the CLI.
 
-### Upload folders/files using the Python CLI (Nested Folder Upload)
-The Blackfynn Python client includes a CLI which enable users to interact with the platform from the command line. Users should [install the python client](https://developer.blackfynn.io/python/). After the client is installed, users will be able to use the ```bf``` command in the terminal to interact with the platform. Make sure to follow the python installation instructions and setup 
+### Upload folders/files using the Python CLI.
+The Blackfynn Python client includes a CLI which enable users to interact with the platform from the command line. Users should [install the python client](https://developer.blackfynn.io/python/). After the client is installed, users will be able to use the ```bf``` command in the terminal to interact with the platform. Make sure to follow the python installation instructions and setup. The Python CLI will be deprecated over the next months (Apr 2019) and be replaced by the Blackfynn Agent CLI. Python users will be able to invoke the Agent from the Python client.
 
 ```bash
 # Setup your profile using your API key/secret if this is the first time running the python CLI
