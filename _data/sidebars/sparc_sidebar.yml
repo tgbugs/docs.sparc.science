@@ -18,6 +18,9 @@ entries:
     - title: Contributing to the Documentation
       url: /doc_contribute.html
       output: web, pdf
+    - title: Frequently Asked Questions
+      url: /faq.html
+      output: web, pdf
   - title: Submitting Data 
     output: web, pdf
     folderitems:
