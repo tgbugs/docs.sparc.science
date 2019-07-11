@@ -24,6 +24,9 @@ entries:
   - title: Submitting Data 
     output: web, pdf
     folderitems:
+    - title: Publishing Data Steps
+      url: /publish_data.html
+      output: web, pdf
     - title: Data Curation Steps
       url: /submit_data.html
       output: web, pdf

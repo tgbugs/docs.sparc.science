@@ -74,7 +74,7 @@ The data and metadata standards established by SPARC, as outlined below, must be
 
 **Who owns the data:** The investigator that submitted the data or the person who is assigned as the owner of the dataset.  The owner will have provided proper citation metadata so that the reuse of the data can be appropriately credited.
 
-**Process:** When datasets are shared publicly, the data will receive a digital object identifier (DOI), which can be used to reference the data in publications.
+**Process:** The publishing steps are outlined in the [making data public](publish_data.html) page.
 
 **Required steps for the data owner:**
 - The dataset will be automatically published at one year post milestone, if not published earlier by the investigator, e.g., as part of a publication or because s/he wants to.
