@@ -12,7 +12,7 @@ The first step to making your data public is to make sure your protocols are mad
 
 1. Log into protocols.io, and publish your dataset’s protocol(s) by clicking the orange PUBLISH button.
 
-{% include image.html file="protocols_ss.png" alt="protocol" max-width=300 %}
+    {% include image.html file="protocols_ss.png" alt="protocol" max-width=300 %}
 
 2. Get a DOI for your protocol by clicking the orange GET DOI button.
 
@@ -28,18 +28,13 @@ Publishing your Blackfynn datasets will make your data publicly available for th
 
 2. Make sure the following information is correct:
 
-- Dataset Title
-- Dataset Describtion
-- Dataset Contributors
-- Dataset Tags
-- Dataset License (must select CC-BY license, per SPARC policy)
-- The Banner Image (.jpg or .png)
+    - Dataset Title
+    - Dataset Describtion
+    - Dataset Contributors
+    - Dataset Tags
+    - Dataset License (must select CC-BY license, per SPARC policy)
+    - The Banner Image (.jpg or .png)
 
 3. Click on "Publish to Blackfynn Discover". This will automatically request a Data Object Identifier (DOI) if you had not reserved one before. You can always publish an updated version of the dataset if needed at a later time, or un-publish a dataset if needed.
 
-{% include image.html file="publish_to_discover.png" alt="discover" %}
-
-
-
-
-
+    {% include image.html file="publish_to_discover.png" alt="discover" %}
