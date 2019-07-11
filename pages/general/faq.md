@@ -8,9 +8,6 @@ summary: This document is intended to serve to share questions and interactions 
 folder: general
 ---
 
-### What is the SPARC Integrated Data Set?
-The SPARC integrated dataset is the instantiated SPARC data model + file pointers that represents ALL datasets (data+metadata) that have been curated from the SPARC consortium, including the knowledge graph that lives on the Blackfynn platform and encapsulates and enables query across all SPARC (meta)data.
-
 ### What is a SPARC data set?
 A SPARC data set is a collection of data files, supporting documents, and metadata produced by a SPARC investigator.  According to the SPARC data sharing policy, a data set should include any data or supporting materials that the PI deems necessary for a 3rd party to reuse the data and reproduce or replicate the results. In general, such files may include raw (primary) data, experimental protocols, analysis code/workflows, processed (derivative) data, complete results, and textual descriptions of the datasets and their contents.  At time of submission by a PI, the dataset may be considered complete (that is, no new data will will be collected), or it may represent a batch or slice of data that is part of a larger dataset being collected over several milestones.
 
@@ -31,10 +28,10 @@ Databases such as OpenNeuro.org, LORIS, COINS, XNAT, SciTran and others will acc
 Validation tools can be developed that can automatically check dataset integrity and let you and the curation team easily spot missing values.
 
 ### Where can I find help on uploading my protocol to protocols.io?   
-We’ve provided a brief tutorial here.  Please note this document changes a little as we get questions to improve readability,  More information is available on the protocols.io website.  
+We’ve provided a brief tutorial [here](https://docs.google.com/presentation/d/1WhoLvOVRIbCzu3x30Dd0O1cC09ZGT4g0IFOf4Eq7yfI/edit).  Please note this document changes a little as we get questions to improve readability,  More information is available on the protocols.io website.  
 
 ### I tried to join the SPARC group in protocols.io, but I can’t find it?
-The SPARC group is private so you need to be added as a member.  Anita Bandrowski is the administrator.  Please send her a message at her protocols.io user account: https://www.protocols.io/researchers/anita-bandrowski, including the email address you used to set up the protocols account.
+The SPARC group is private so you need to be added as a member.  Anita Bandrowski is the administrator.  Please send her a message at her protocols.io user account: [https://www.protocols.io/researchers/anita-bandrowski](https://www.protocols.io/researchers/anita-bandrowski), including the email address you used to set up the protocols account.
 
 ### How do I upload large data to the DAT-CORE?
 Large file upload (10GB and greater) is now supported using the web-application, as well as using the Blackfynn Agent. More information can be found elswhere on this website.
