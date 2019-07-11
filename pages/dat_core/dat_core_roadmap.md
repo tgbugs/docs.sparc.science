@@ -23,9 +23,9 @@ This document outlines the SPARC milestones for the DAT-Core as outlined in the 
 2. **Expanding user permissions on datasets:** The DAT-Core will expand functionality for roles on datasets to support the SPARC data workflow.
 3. **Expanded functionality for search over metadata:** The DAT-Core will expand functionality in their platform to search over metadata within d7atasets. 
 4. **Support for dataset status:** Adding support for a status flag on datasets indicating the stage of curation it is in (draft, in-review, finalized)
-5. **Support for N-dimensional imaging data:** The DAT-Core will expand functionality for 3D clinical imaging, and N-Dimensional microscopy imaging. 
-6. **Improved tracking of SPARC data-use:** The DAT-Core will improve functionality to track how much data is contributed by SPARC investigators.
-7. **Support for two additional file formats:** The DAT-Core will add support for 64-bit Spike2 files and .ac2 files.
+5. ~~**Support for N-dimensional imaging data:** The DAT-Core will expand functionality for 3D clinical imaging, and N-Dimensional microscopy imaging.~~ 
+6. ~~**Improved tracking of SPARC data-use:** The DAT-Core will improve functionality to track how much data is contributed by SPARC investigators.~~
+7. ~~**Support for two additional file formats:** The DAT-Core will add support for 64-bit Spike2 files and .ac2 files.~~
 
 ### Q3: April-June 2019
 

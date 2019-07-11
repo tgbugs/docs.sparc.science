@@ -11,7 +11,8 @@ folder: general
 
 {% include image.html file="sparc_workflow.png" alt="workflow" %}
 
-Inveistgators will have 1 year from the time a milestone is completed to publish the resulting dataset (step 4). A dataset is published when it is available for viewing and download by the public and has been assigned a digital object identifier (DOI). During that year, the dataset will move through several stages, characterized by access rights and curatorial actions. Investigators will have 30 days from the completion of the milestone to formally submit their data to the SPARC Data Repository (DAT-CORE).  Submission of data is defined as sharing data with the Data Curation Team (step 2).
+
+Investigators will have 1 year from the time a milestone is completed to publish the resulting dataset (step 4). A dataset is published when it is available for viewing and download by the public and has been assigned a digital object identifier (DOI). During that year, the dataset will move through several stages, characterized by access rights and curatorial actions. Investigators will have 30 days from the completion of the milestone to formally submit their data to the SPARC Data Repository (DAT-CORE).  Submission of data is defined as sharing data with the Data Curation Team (step 2).
 
 ### 1. Creating a draft dataset
 **Timeline:** At any time, users can create a draft dataset within the SPARC Consortium organization in preparation for submitting the dataset.
@@ -29,7 +30,8 @@ The data and metadata standards established by SPARC, as outlined below, must be
 **Steps for creating a draft dataset:**
 - Create and name a dataset in the SPARC Data Repository (within the **SPARC Consortium Organization** on Blackfynn)
 - Provide a short description for the dataset
-- Upload files and organize the dataset according to the requirements of the SPARC Data Standards Committee and Data Curation Team (see below).
+- Upload files and organize the dataset according to the requirements of the SPARC Data Standards Committee and Data Curation Team (see below). For many users the easiest method is to drag the parent folder of the BIDS folder hierarchy into the DAT-Core platform. All files will be uploaded and the folder structure will be maintained.
+- Share the data with the curation team and NIH
 
 **SPARC dataset requirements** Each dataset will comprise the following:
 - A protocol that has been [submitted to Protocols.io](https://docs.google.com/presentation/d/1WhoLvOVRIbCzu3x30Dd0O1cC09ZGT4g0IFOf4Eq7yfI/edit#slide=id.p) as part of the SPARC group
@@ -72,7 +74,7 @@ The data and metadata standards established by SPARC, as outlined below, must be
 
 **Who owns the data:** The investigator that submitted the data or the person who is assigned as the owner of the dataset.  The owner will have provided proper citation metadata so that the reuse of the data can be appropriately credited.
 
-**Process:** When datasets are shared publicly, the data will receive a digital object identifier (DOI), which can be used to reference the data in publications.
+**Process:** The publishing steps are outlined in the [making data public](publish_data.html) page.
 
 **Required steps for the data owner:**
 - The dataset will be automatically published at one year post milestone, if not published earlier by the investigator, e.g., as part of a publication or because s/he wants to.
