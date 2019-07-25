@@ -7,13 +7,19 @@ summary: This page provides an overview of the SPARC data format.
 folder: general
 ---
 
-## Overview of SPARC Dataset Format
+## Organization of a SPARC Dataset
+SPARC data is organized into data sets, each containing many files.  A SPARC data set comprises the following data and structure:
+- An experimental protocol that has been [submitted to Protocols.io](http://protocols.io) and curated.
+- Data files organized in folders by the investigators and curated according to the [SPARC Dataset Structure](https://docs.google.com/presentation/d/1EQPn1FmANpPsFt3CguU-JOQVMMlJsNXluQAK_gb2qVg/edit#slide=id.p1).  The SPARC Dataset Structure was adapted from the [BIDS specification](https://bids-specification.readthedocs.io/en/latest/01-introduction.html). These files and folders include:
+  - Dataset_description (csv): file contains the study metadata to describe the dataset, including but not limited to, a short description of the study, contributors, associated journal articles and a protocol.io URL. 
+  - Sample file (csv): contains information about samples involved in the data collection.
+  - Subject file (csv): contains information on every subject involved in the data collection
+  - Subject and/or Sample folder, depending on the study design. These folders contain all folders and files for an individual subject or sample. 
+  - Docs folder that contains all the supporting documents for the dataset, including but not limited to, a representative image.
+ 
+### Example of data set organized according to SPARC Dataset structure
+{% include image.html file="SPARC_Dataset_Overview.png" alt="Overview of SPARC Dataset" %}
+ 
+## SPARC Metadata
 
-Each dataset dataset will comprise the following:
-- A protocol that has been [submitted to Protocols.io]
-- Data files organized in folders according to [SPARC guidelines](https://docs.google.com/presentation/d/1EQPn1FmANpPsFt3CguU-JOQVMMlJsNXluQAK_gb2qVg/edit#slide=id.p1).  The SPARC Dataset Structure may be [downloaded as a zip file](https://drive.google.com/open?id=1mtZ5sL1lYcA2zHVsrYOKVeH2X-VlJT6P) or you may create them on your own. For help with working with the SPARC Dataset Structure, which is based on the [BIDS specification](http://bids.neuroimaging.io/), contact **sparc@neuinfo.org**.
-- Metadata files and documentation organized according to the SPARC Dataset Structure.  Templates are provided in the zip file (docs file) and include the following:
-  - [Submission metadata](https://drive.google.com/open?id=1OhXmssY9GK8ebOmrvib1B9xbeqoVEOBA)
-  - [Dataset description for publication](https://drive.google.com/file/d/1-VqBo63oKlxVdt8nNnbzVK0NxAHwc8-L/view?usp=sharing)
-  - A representative figure that will be published along with the descriptive metadata
-  - Experimental metadata specified by the SPARC Data Standards Committee based on the Minimal Information for a Neuroscience Dataset (MINDS) specification.  MINDS metadata fields have been incorporated into the [subjects](https://drive.google.com/open?id=1IDo5INrqtIu1sTJW2mICzuGEAKqv5eGg) and [samples](https://drive.google.com/open?id=1ROCsuBjMWBDmCTpTGZsUQDDgYtm-nqYG) templates available in the zip file.  An annotated list of these fields can be found [here](https://docs.google.com/spreadsheets/d/1e61r3F2weausmBhqFK8RlYLviC3rya44so5m15mPRTw/edit#gid=108617967).
+Experimental metadata specified by the SPARC Data Standards Committee based on the Minimal Information for a Neuroscience Dataset (MINDS) specification.  MINDS metadata fields have been incorporated into the [subjects](https://drive.google.com/open?id=1IDo5INrqtIu1sTJW2mICzuGEAKqv5eGg) and [samples](https://drive.google.com/open?id=1ROCsuBjMWBDmCTpTGZsUQDDgYtm-nqYG) templates available in the zip file.  An annotated list of these fields can be found [here](https://docs.google.com/spreadsheets/d/1e61r3F2weausmBhqFK8RlYLviC3rya44so5m15mPRTw/edit#gid=108617967).
