@@ -54,4 +54,7 @@ entries:
     - title: SPARC Dataset Format Overview
       url: /sparc_data_format.html
       output: web, pdf
-      
+    - title: Map visualization docs
+      url: /sparc_portal_maps.html
+      output: web, pdf
+
