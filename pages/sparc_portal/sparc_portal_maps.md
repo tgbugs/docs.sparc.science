@@ -9,4 +9,4 @@ folder: general
 
 ## Map visualization documentation
 
-The map visualization documentation is currently available here: https://mapcore-documentation.readthedocs.io.
+The map visualization documentation is currently available here: [Documentation](https://mapcore-documentation.readthedocs.io)
