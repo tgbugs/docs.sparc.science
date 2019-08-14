@@ -35,7 +35,7 @@ The data and metadata standards established by SPARC, as outlined below, must be
 
 **SPARC dataset requirements** Each dataset will comprise the following:
 - A protocol that has been [submitted to Protocols.io](https://docs.google.com/presentation/d/1WhoLvOVRIbCzu3x30Dd0O1cC09ZGT4g0IFOf4Eq7yfI/edit#slide=id.p) as part of the SPARC group
-- Data files organized in folders according to [SPARC guidelines](https://docs.google.com/presentation/d/1EQPn1FmANpPsFt3CguU-JOQVMMlJsNXluQAK_gb2qVg/edit#slide=id.p1).  The SPARC Dataset Structure may be [downloaded as a zip file](https://drive.google.com/open?id=1mtZ5sL1lYcA2zHVsrYOKVeH2X-VlJT6P) or you may create them on your own. For help with working with the SPARC Dataset Structure, which is based on the [BIDS specification](http://bids.neuroimaging.io/), contact **sparc@neuinfo.org**.
+- Data files organized in folders according to [SPARC guidelines](https://docs.google.com/presentation/d/1EQPn1FmANpPsFt3CguU-JOQVMMlJsNXluQAK_gb2qVg/edit#slide=id.p1).  The SPARC Dataset Structure may be [downloaded as a zip file](https://github.com/SciCrunch/sparc-curation/releases/tag/dataset-template-1.1) or you may create it on your own. For help with working with the SPARC Dataset Structure, which is based on the [BIDS specification](http://bids.neuroimaging.io/), contact **sparc@neuinfo.org**.
 - Metadata files and documentation organized according to the SPARC Dataset Structure.  Templates are provided in the zip file (docs file) and include the following:
   - [Submission metadata](https://drive.google.com/open?id=1OhXmssY9GK8ebOmrvib1B9xbeqoVEOBA)
   - [Dataset description for publication](https://drive.google.com/file/d/1-VqBo63oKlxVdt8nNnbzVK0NxAHwc8-L/view?usp=sharing)
