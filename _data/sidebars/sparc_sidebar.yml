@@ -3,7 +3,7 @@
 entries:
 - title: sidebar
   product: SPARC Documentation
-  version: 
+  version:
   folders:
 
   - title: Overview
@@ -11,31 +11,47 @@ entries:
     folderitems:
     - title: DRC Resources and Accounts
       url: /user_accounts.html
-      output: web, pdf  
+      output: web, pdf
     - title: SPARC Confidentiality Agreement
       url: /sparc_cda.html
       output: web, pdf
     - title: Contributing to the Documentation
       url: /doc_contribute.html
       output: web, pdf
-  - title: Submitting Data 
+    - title: Frequently Asked Questions
+      url: /faq.html
+      output: web, pdf
+  - title: Submitting Data
     output: web, pdf
     folderitems:
-    - title: Data Curation Steps
-      url: /submit_data.html
-      output: web, pdf
     - title: Uploading Files
       url: /file_upload_dat_core.html
       output: web, pdf
-  - title: DAT-Core Information
+    - title: Data Curation Steps
+      url: /submit_data.html
+      output: web, pdf
+    - title: Publishing Data Steps
+      url: /publish_data.html
+      output: web, pdf
+  - title: Data Resource Center
     output: web, pdf
     folderitems:
     - title: DAT-Core Information
       url: /dat_information.html
       output: web, pdf
-    - title: DAT-Core Roadmap
-      url: /dat_roadmap.html
+    - title: MAP-Core Information
+      url: /Webinar_by_PeterHunter.html
       output: web, pdf
-
-
+  - title: SPARC Portal
+    output: web, pdf
+    folderitems:
+    - title: SPARC Dataset Format Overview
+      url: /sparc_data_format.html
+      output: web, pdf
+    - title: Accessing Public Datasets
+      url: /public_dataset_access.html
+      output: web, pdf
+    - title: Map visualization docs
+      url: /sparc_portal_maps.html
+      output: web, pdf
 

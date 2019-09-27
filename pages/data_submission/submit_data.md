@@ -3,7 +3,7 @@ title: "SPARC Data curation steps"
 keywords: documentation, github
 sidebar: sparc_sidebar
 permalink: submit_data.html
-summary: This page outlines the workflow for submitting data to the SPARC DAT-Core. 
+summary: This page outlines the workflow for submitting data to the SPARC DAT-Core, getting the data curated, released under embargo, and eventually making the data public. 
 folder: general
 ---
 
@@ -30,19 +30,17 @@ The data and metadata standards established by SPARC, as outlined below, must be
 **Steps for creating a draft dataset:**
 - Create and name a dataset in the SPARC Data Repository (within the **SPARC Consortium Organization** on Blackfynn)
 - Provide a short description for the dataset
-- Upload files and organize the dataset according to the requirements of the SPARC Data Standards Committee and Data Curation Team (see below).Users can either:
-  - create the SPARC required folder hierarchy on the DAT-Core platform, or
-  - **create and upload a zip file with the correct folder hierarchy and files**. This method is available temporarily until the DAT-Core natively supports dragging nested folders into the web-application. In this case, once the dataset is shared with the curation team, the DAT-Core unzip the uploaded file and create the folder hierarchy on the platform.
+- Upload files and organize the dataset according to the requirements of the SPARC Data Standards Committee and Data Curation Team (see below). For many users the easiest method is to drag the parent folder of the BIDS folder hierarchy into the DAT-Core platform. All files will be uploaded and the folder structure will be maintained.
 - Share the data with the curation team and NIH
 
 **SPARC dataset requirements** Each dataset will comprise the following:
 - A protocol that has been [submitted to Protocols.io](https://docs.google.com/presentation/d/1WhoLvOVRIbCzu3x30Dd0O1cC09ZGT4g0IFOf4Eq7yfI/edit#slide=id.p) as part of the SPARC group
-- Data files organized in folders according to [SPARC guidelines](https://docs.google.com/presentation/d/1EQPn1FmANpPsFt3CguU-JOQVMMlJsNXluQAK_gb2qVg/edit#slide=id.p1).  The SPARC Dataset Structure may be [downloaded as a zip file](https://drive.google.com/open?id=1mtZ5sL1lYcA2zHVsrYOKVeH2X-VlJT6P) or you may create them on your own. For help with working with the SPARC Dataset Structure, which is based on the [BIDS specification](http://bids.neuroimaging.io/), contact **sparc@neuinfo.org**.
+- Data files organized in folders according to [SPARC guidelines](https://docs.google.com/presentation/d/1EQPn1FmANpPsFt3CguU-JOQVMMlJsNXluQAK_gb2qVg/edit#slide=id.p1).  The SPARC Dataset Structure (version 1.1) may be [downloaded as a zip file](https://github.com/SciCrunch/sparc-curation/releases/tag/dataset-template-1.1) or you may create it on your own. For help with working with the SPARC Dataset Structure, which is based on the [BIDS specification](http://bids.neuroimaging.io/), contact **sparc@neuinfo.org**.
 - Metadata files and documentation organized according to the SPARC Dataset Structure.  Templates are provided in the zip file (docs file) and include the following:
-  - [Submission metadata](https://drive.google.com/open?id=1OhXmssY9GK8ebOmrvib1B9xbeqoVEOBA)
-  - [Dataset description for publication](https://drive.google.com/file/d/1-VqBo63oKlxVdt8nNnbzVK0NxAHwc8-L/view?usp=sharing)
+  - [Submission metadata](https://github.com/SciCrunch/sparc-curation/blob/dataset-template-1.1/resources/DatasetTemplate/submission.xlsx)
+  - [Dataset description for publication](https://github.com/SciCrunch/sparc-curation/blob/dataset-template-1.1/resources/DatasetTemplate/dataset_description.xlsx)
   - A representative figure that will be published along with the descriptive metadata
-  - Experimental metadata specified by the SPARC Data Standards Committee based on the Minimal Information for a Neuroscience Dataset (MINDS) specification.  MINDS metadata fields have been incorporated into the [subjects](https://drive.google.com/open?id=1IDo5INrqtIu1sTJW2mICzuGEAKqv5eGg) and [samples](https://drive.google.com/open?id=1ROCsuBjMWBDmCTpTGZsUQDDgYtm-nqYG) templates available in the zip file.  An annotated list of these fields can be found [here](https://docs.google.com/spreadsheets/d/1e61r3F2weausmBhqFK8RlYLviC3rya44so5m15mPRTw/edit#gid=108617967).
+  - Experimental metadata specified by the SPARC Data Standards Committee based on the Minimal Information for a Neuroscience Dataset (MINDS) specification.  MINDS metadata fields have been incorporated into the [subjects](https://github.com/SciCrunch/sparc-curation/blob/dataset-template-1.1/resources/DatasetTemplate/subjects.xlsx) and [samples](https://github.com/SciCrunch/sparc-curation/blob/dataset-template-1.1/resources/DatasetTemplate/samples.xlsx) templates available in the zip file.  An annotated list of these fields can be found [here](https://docs.google.com/spreadsheets/d/1e61r3F2weausmBhqFK8RlYLviC3rya44so5m15mPRTw/edit#gid=108617967).
 
 ### 2. Submit dataset to Data Curation Team
 **Timeline:** A dataset is considered submitted once it has been shared with the Data Curation Team.  Dataset submission is required within 30 days of completing a project milestone (according to the [SPARC Material Sharing Policy](https://commonfund.nih.gov/sparc/materialsharing)).
@@ -76,7 +74,7 @@ The data and metadata standards established by SPARC, as outlined below, must be
 
 **Who owns the data:** The investigator that submitted the data or the person who is assigned as the owner of the dataset.  The owner will have provided proper citation metadata so that the reuse of the data can be appropriately credited.
 
-**Process:** When datasets are shared publicly, the data will receive a digital object identifier (DOI), which can be used to reference the data in publications.
+**Process:** The publishing steps are outlined in the [Publishing Data Steps](publish_data.html) page.
 
 **Required steps for the data owner:**
 - The dataset will be automatically published at one year post milestone, if not published earlier by the investigator, e.g., as part of a publication or because s/he wants to.
