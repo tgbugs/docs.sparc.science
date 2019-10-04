@@ -33,6 +33,9 @@ entries:
     - title: Publishing Data Steps
       url: /publish_data.html
       output: web, pdf
+    - title: Help with data organization
+      url: /soda.html
+      output: web, pdf
   - title: Data Resource Center
     output: web, pdf
     folderitems:
