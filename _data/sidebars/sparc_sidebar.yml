@@ -24,11 +24,11 @@ entries:
   - title: Submitting Data
     output: web, pdf
     folderitems:
+    - title: Submitting a Dataset
+      url: /submit_data2.html
+      output: web, pdf
     - title: Uploading Files
       url: /file_upload_dat_core.html
-      output: web, pdf
-    - title: Data Curation Steps
-      url: /submit_data.html
       output: web, pdf
     - title: Publishing Data Steps
       url: /publish_data.html
