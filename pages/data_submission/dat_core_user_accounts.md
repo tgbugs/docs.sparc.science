@@ -20,7 +20,13 @@ These accounts should no longer be used for SPARC related efforts and will be tr
 Once users join the SPARC Consortium organization, each user will be placed onto a team with other users from the same SPARC award. It is also possible to create any number of teams comprised of SPARC investigators (i.e. users with access to the SPARC Consortium organization). Teams will be used to set data access rights and roles for submitted datasets. The SPARC Consortium organization also contains a Data Curation team and a SPARC Embargoed Data Sharing Group team.
 
 ## SPARC Slack
-All SPARC investigators can join the [SPARC Slack](https://nih-sparc.slack.com). SPARC uses Slack to foster collaboration and communication between investigators within the SPARC program. If you are interested in joining the Slack account, send a message to Leonardo Guercio from the DAT-Core (support@blackfynn.com).
+All SPARC investigators can join the [SPARC Slack](https://nih-sparc.slack.com). SPARC uses Slack to foster collaboration and communication between investigators within the SPARC program. If you are interested in joining the Slack account, send a message to Leonardo Guercio from the DAT-Core (support@blackfynn.com). SPARC Slack includes many useful channels for SPARC Consortium members includiing:
+* [Data curation support](https://nih-sparc.slack.com/messages/CEN6L3EN4)
+* [Ad postings](https://nih-sparc.slack.com/messages/C856A6210)
+* [Member updates to Airtable](https://nih-sparc.slack.com/messages/CAHTEK0UV)
+* [News and publications](https://nih-sparc.slack.com/messages/C7EPN1JTG)
+* [SPARC announcements](https://nih-sparc.slack.com/messages/C7DB3KXRP)
+* [SPARC Twitter](https://nih-sparc.slack.com/messages/CLBNP30JC)
 
 ## SPARC Datathon 2018 TalentLMS
 SPARC used [TalentLMS](https://datathon-learnwithsparc.talentlms.com/) for documentation, tutorials and resources for the 2018 Datathon meeting. Following the meeting the material has been consolidated into a single "course" which can be accessed with the credentials:
@@ -30,4 +36,4 @@ SPARC used [TalentLMS](https://datathon-learnwithsparc.talentlms.com/) for docum
 Please contact the mapcore-support channel on [SPARC Slack](https://nih-sparc.slack.com) for further information or assistance.
 
 ## Airtable
-Airtable will be used to provide contact information for SPARC investigators and to define Teams on the Blackfynn platform (see above). The SPARC Airtable can be accessed [here](https://airtable.com/tblFGEvUoTbbG6tJy/viwWBpydzfYQsvNFz). Please contact Charles Horn at the University of Pittsburgh (chorn@pitt.edu) for more information.
+Airtable will be used to provide contact information for SPARC investigators and to define Teams on the Blackfynn platform (see above). The SPARC Airtable can be accessed [here](https://airtable.com/tblFGEvUoTbbG6tJy/viwWBpydzfYQsvNFz). SPARC team members are encouraged to check and frequently update information. For access, please contact Charles Horn at the University of Pittsburgh using email (chorn@pitt.edu) and include project PI name and title.
