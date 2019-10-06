@@ -2,7 +2,7 @@
 title: "Submitting a dataset to SPARC"
 keywords: documentation, github
 sidebar: sparc_sidebar
-permalink: submit_data2.html
+permalink: submit_data.html
 summary: This page outlines the workflow for submitting a dataset, getting the data curated, releasing the data under embargo, and eventually making the data publicly available. 
 folder: general
 ---
