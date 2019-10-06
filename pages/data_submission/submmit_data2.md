@@ -21,23 +21,19 @@ There are a couple of easy steps to submit a dataset:
 
 3. Add permissions to your **Award team** (contact the DAT-Core if you need help adding people to your award team) and the **Curation team**. Select your award-team from the dropdown menu, and add with the appropriate permissions, and add the *SPARC Data Curation Team* with *manager* permissions. {% include image.html file="dat_core_permissions2.png" alt="workflow" %} You have now allowed your award-team and the curation team to see, and edit the dataset.
 
-4. Upload files to the dataset according to the [SPARC guidelines](https://docs.google.com/presentation/d/1EQPn1FmANpPsFt3CguU-JOQVMMlJsNXluQAK_gb2qVg/edit#slide=id.p1).  The SPARC Dataset Structure (version 1.2) may be [downloaded as a zip file](https://github.com/SciCrunch/sparc-curation/releases/tag/dataset-template-1.2.1) or you may create it on your own. For help with working with the SPARC Dataset Structure, which is based on the [BIDS specification](http://bids.neuroimaging.io/), contact **sparc@neuinfo.org**. More information on how to upload files can be found [here](file_upload_dat_core.html) {% include image.html file="dat_core_files.png" alt="workflow" %}
+4. Upload files to the dataset according to the [SPARC guidelines](https://docs.google.com/presentation/d/1EQPn1FmANpPsFt3CguU-JOQVMMlJsNXluQAK_gb2qVg/edit#slide=id.p1).  The SPARC Dataset Structure (version 1.2) may be [downloaded as a zip file](https://github.com/SciCrunch/sparc-curation/releases/tag/dataset-template-1.2.1) or you may create it on your own. For help with working with the SPARC Dataset Structure, which is based on the [BIDS specification](http://bids.neuroimaging.io/), contact **sparc@neuinfo.org**. More information on how to upload files can be found [here](file_upload_dat_core.html) {% include image.html file="dat_core_files.png" alt="workflow" %}Complete the metadata templates that are included in the downloadad *SPARC Dataset Structure* zip-file. Experimental metadata specified by the SPARC Data Standards Committee based on the Minimal Information for a Neuroscience Dataset (MINDS) specification and are captured in the following files: 1) submission.xlsx, 2) dataset_description.xlsx, 3) subjects.xlsx, and 4) samples.xlsx. An annotated list of these fields can be found [here](https://docs.google.com/spreadsheets/d/1e61r3F2weausmBhqFK8RlYLviC3rya44so5m15mPRTw/edit#gid=108617967).
 
-5. Create metadata Excel files according to the SPARC standard. 
-  - Metadata files and documentation organized according to the SPARC Dataset Structure.  Templates are provided in the zip file (docs file) and include the following:
-  - [Submission metadata](https://github.com/SciCrunch/sparc-curation/blob/dataset-template-1.1/resources/DatasetTemplate/submission.xlsx)
-  - [Dataset description for publication](https://github.com/SciCrunch/sparc-curation/blob/dataset-template-1.1/resources/DatasetTemplate/dataset_description.xlsx)
-  - Experimental metadata specified by the SPARC Data Standards Committee based on the Minimal Information for a Neuroscience Dataset (MINDS) specification.  MINDS metadata fields have been incorporated into the [subjects](https://github.com/SciCrunch/sparc-curation/blob/dataset-template-1.1/resources/DatasetTemplate/subjects.xlsx) and [samples](https://github.com/SciCrunch/sparc-curation/blob/dataset-template-1.1/resources/DatasetTemplate/samples.xlsx) templates available in the zip file.  An annotated list of these fields can be found [here](https://docs.google.com/spreadsheets/d/1e61r3F2weausmBhqFK8RlYLviC3rya44so5m15mPRTw/edit#gid=108617967).
+5. Provide a detailed description of your dataset using the description editor on the DAT-Core. This description will be highly visible once your dataset is published. {% include image.html file="description_dataset_datcore.png" alt="workflow" %} 
 
-6. Provide a detailed description of your dataset using the description editor on the DAT-Core. This description will be highly visible once your dataset is published. {% include image.html file="description_dataset_datcore.png" alt="workflow" %} 
+6. Add a nice banner image that will be associated with the dataset and will be visisble once the dataset is published. Click on the `Upload Banner Image` in the `Settings` or `Overview` page. {% include image.html file="banner_dataset.png" alt="workflow" %} 
 
-7. Add a nice banner image that will be associated with the dataset and will be visisble once the dataset is published. Click on the `Upload Banner Image` in the `Settings` or `Overview` page. {% include image.html file="banner_dataset.png" alt="workflow" %} 
+7. Select a license that you want to associate with the dataset once published. Click on the `license` dropdown menu in the `Dataset Settings` page. {% include image.html file="license_datcore.png" alt="workflow" %} 
 
-8. Select a license that you want to associate with the dataset once published. Click on the `license` dropdown menu in the `Dataset Settings` page. {% include image.html file="license_datcore.png" alt="workflow" %} 
-
-9. Finally, you will need to submit a protocol to [Protocols.io](https://docs.google.com/presentation/d/1WhoLvOVRIbCzu3x30Dd0O1cC09ZGT4g0IFOf4Eq7yfI/edit#slide=id.p) as part of the SPARC group. 
+8. Finally, you will need to submit a protocol to [Protocols.io](https://docs.google.com/presentation/d/1WhoLvOVRIbCzu3x30Dd0O1cC09ZGT4g0IFOf4Eq7yfI/edit#slide=id.p) as part of the SPARC group. 
 
 **NOTE:** There are other things that need to be entered into the DAT-Core before a dataset can be published such as: 1) the contributors, and 2) a list of tags. However, the curation team will help with adding these to the dataset from the CSV templates that you will provide as part of the uploaded files.
+
+**NOTE:** You are free to add additional metadata in the [DAT-Core Metadata database](https://help.blackfynn.com/en/collections/1941429). If you do this, **do not** use the following model names: 1) Term, 2) Subject, 3) Protocol, 4) Researcher, 5) Summary, or 6) Sample as these will be overritten by the SPARC curation process. 
 
 
 ### 2. Placing your data in Embargo
