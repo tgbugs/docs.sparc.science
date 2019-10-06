@@ -25,7 +25,7 @@ entries:
     output: web, pdf
     folderitems:
     - title: Submitting a SPARC Dataset
-      url: /submit_data2.html
+      url: /submit_data.html
       output: web, pdf
     - title: Uploading Files to DAT-Core
       url: /file_upload_dat_core.html
