@@ -24,16 +24,13 @@ entries:
   - title: Submitting Data
     output: web, pdf
     folderitems:
-    - title: Submitting a Dataset
+    - title: Submitting a SPARC Dataset
       url: /submit_data2.html
       output: web, pdf
-    - title: Uploading Files
+    - title: Uploading Files to DAT-Core
       url: /file_upload_dat_core.html
       output: web, pdf
-    - title: Publishing Data Steps
-      url: /publish_data.html
-      output: web, pdf
-    - title: Help with data organization
+    - title: SODA Data submitting tool
       url: /soda.html
       output: web, pdf
   - title: Data Resource Center

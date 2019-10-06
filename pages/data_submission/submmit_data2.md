@@ -9,13 +9,13 @@ folder: general
 
 ## Steps for submitting a dataset
 
-{% include image.html file="sparc_workflow.png" alt="workflow" %}
-Dataset submission is required within 30 days of completing a project milestone (according to the [SPARC Material Sharing Policy](https://commonfund.nih.gov/sparc/materialsharing)).
+This documentation only applies to investigators that are funded throught the NIH SPARC effort. Each investigator has user-credentials under the account *SPARC Consortium* on the DAT-Core. All datasets that are SPARC related should be submitted to this account even though the investigator might have an separate *private* Blackfynn account. Dataset submission is required within 30 days of completing a project milestone (according to the [SPARC Material Sharing Policy](https://commonfund.nih.gov/sparc/materialsharing)). {% include image.html file="sparc_workflow.png" alt="workflow" %}
+
 
 ### 1. Creating a draft dataset
 There are a couple of easy steps to submit a dataset:
 
-1. Create a dataset on the DAT-Core by clicking the `New Dataset` button in the top-right corner of the DAT-Core webapplication and provide a **Dataset Name** and a short **Dataset Subtitle** describing the dataset. Then, click on `Create Dataset`. {% include image.html file="dataset_list_datcore.png" alt="workflow" %} You now created a *private* dataset that only you, as the dataset owner, can see.
+1. Create a dataset on the DAT-Core (*SPARC Consortium* account on Blackfynn) by clicking the `New Dataset` button in the top-right corner of the webapplication and provide a **Dataset Name** and a short **Dataset Subtitle** describing the dataset. Then, click on `Create Dataset`. {% include image.html file="dataset_list_datcore.png" alt="workflow" %} You now created a *private* dataset that only you, as the dataset owner, can see.
 
 2. Change the ownership of the dataset to the PI of the lab. This is a SPARC requirement and ensures that the PI is the only person who can publish the dataset. To do this, click on the `Permissions` tab, and add the PI to your dataset as a *manager*. Then click on the `manager` label next to his/her name and select `Make Owner`. You will no longer be the owner of the dataset, but still have *manager* permissions. {% include image.html file="dataset_permissions.png" alt="workflow" %}
 
@@ -42,4 +42,42 @@ Now that you have created a dataset and you are ready for the data curation to h
 1. Add the **SPARC Embargoed Data Sharing Team** to your dataset with **viewer** permissions. This allows any SPARC investigator who has signed the SPARC Non-disclosure form to see your data. {% include image.html file="embargoe_datcore.png" alt="workflow" %} 
 
 ### 3. Publishing your dataset
-When the dataset is ready to be published, the dataset owner can publish the dataset and make it publicly available. Follow the [publication steps](/publish_data.html) for more information.
+When the dataset is ready to be published, the dataset owner can publish the dataset and make it publicly available. There are two steps required for dataset publication: 1) Protocol publication on Protocols.io, and 2) Dataset Publication on the DAT-Core.
+
+
+1. Make your protocol public on Protocols.io
+The first step to making your data public is to make sure your protocols are made public on [Protocols.io](https://protocols.io). Perform the following steps:
+
+    1. Log into protocols.io, and publish your dataset’s protocol(s) by clicking the orange PUBLISH button.{% include image.html file="protocols_ss.png" alt="protocol" %}
+
+    2. Get a DOI for your protocol by clicking the orange GET DOI button.
+
+    3. Give the curators a couple days to update your protocol URL to the DOI in your dataset_description file, or go ahead and do it yourself.  To do it yourself, update the URL(s) to your protocol(s) by editing the Blackfynn "Protocol" metadata record.
+
+    3. Update the *protocol* record(s) in the DAT-Core to correctly store the newly generated DOI. To do this, click on the `Records` tab in the dataset, and select the `protocol` model if this exist. Then, click on the protocol that you want to update and click the `edit` button. Update the `URL` field with the correct DOI URL anc click on `Save`. {% include image.html file="model_records.png" alt="protocol" %}
+
+    4. Upon receiving confirmation from the curation team that your dataset has been fully curated and is ready to publish, continue to the steps below.
+
+
+2. Make your dataset public on the DAT-Core
+Publishing your Blackfynn datasets will make your data publicly available for the world to see. The dataset will be findable and accessible on [Blackfynn Discover](https://discover.blackfynn.com) and the [SPARC Portal](https://data.sparc.science).
+
+    1. Make sure the following information is correct for the dataset:
+
+        - Dataset Title
+        - Dataset SubTitle
+        - Dataset Describtion
+        - Dataset Contributors
+        - Dataset Tags
+        - Dataset License (must select **CC-BY license**, per SPARC policy)
+        - The Banner Image (.jpg or .png)
+        - The URLS in the *Protocol* records.
+
+    2. Go to the *Settings* tab for the dataset on the DAT-Core.
+
+    3. Have the owner of the dataset click on `Publish to Blackfynn Discover` button. It is required for the owner to have an [ORCID ID](https://orcid.org/) associated with their user-profile. Publishing a dataset will automatically request a Data Object Identifier (DOI) through [DataCite](https://datacite.org/) if you had not reserved one before. You can always publish an updated version of the dataset if needed at a later time, or un-publish a dataset if needed. {% include image.html file="publish_to_discover.png" alt="discover" %}
+
+## Summary
+This document outlined the steps required to submit and publish a SPARC dataset. Please feel free to reach out to the DAT-Core or Curation team with specific questions about the workflow. 
+
+
