@@ -2,7 +2,7 @@
 title: "SPARC Data curation steps"
 keywords: documentation, github
 sidebar: sparc_sidebar
-permalink: submit_data.html
+permalink: submit_data_old.html
 summary: This page outlines the workflow for submitting data to the SPARC DAT-Core, getting the data curated, released under embargo, and eventually making the data public. 
 folder: general
 ---
