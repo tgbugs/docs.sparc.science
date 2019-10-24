@@ -12,6 +12,9 @@ entries:
     - title: DRC Resources and Accounts
       url: /user_accounts.html
       output: web, pdf
+    - title: SPARC Glossary
+      url: /sparc_glossary.html
+      output: web,pdf
     - title: SPARC Confidentiality Agreement
       url: /sparc_cda.html
       output: web, pdf
