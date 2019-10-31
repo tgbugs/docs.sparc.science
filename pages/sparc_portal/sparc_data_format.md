@@ -10,11 +10,11 @@ folder: general
 ## Organization of a SPARC Dataset
 SPARC data is organized into data sets, each containing many files.  
 
-A [dataset template](https://github.com/SciCrunch/sparc-curation/releases/tag/dataset-template-1.2.2)
-(currently at version 1.2.2) with examples of folder structures is available as a
-[zip file](https://github.com/SciCrunch/sparc-curation/releases/download/dataset-template-1.2.2/DatasetTemplate.zip)
+A [dataset template](https://github.com/SciCrunch/sparc-curation/releases/tag/dataset-template-1.2.3)
+(currently at version 1.2.3) with examples of folder structures is available as a
+[zip file](https://github.com/SciCrunch/sparc-curation/releases/download/dataset-template-1.2.3/DatasetTemplate.zip)
  The structure can also be viewed directly on
-[GitHub](https://github.com/SciCrunch/sparc-curation/tree/dataset-template-1.2.2/resources/DatasetTemplate).  
+[GitHub](https://github.com/SciCrunch/sparc-curation/tree/dataset-template-1.2.3/resources/DatasetTemplate).  
 
 A SPARC data set comprises the following data and structure:
 - An experimental protocol that has been [submitted to Protocols.io](http://protocols.io) and curated.
@@ -30,7 +30,7 @@ These files and folders include:
   - `samples` file (xlsx, csv, or json): contains information about samples involved in the data collection.
   - A `primary` folder, containing folders named to match the identifiers for subjects and/or samples
   depending on the study design. See the
-  [dataset template](https://github.com/SciCrunch/sparc-curation/tree/dataset-template-1.2.2/resources/DatasetTemplate)
+  [dataset template](https://github.com/SciCrunch/sparc-curation/tree/dataset-template-1.2.3/resources/DatasetTemplate)
   for examples.
   - Docs folder that contains all the supporting documents for the dataset, including but not limited to,
   a representative image.
